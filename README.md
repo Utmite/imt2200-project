@@ -1,9 +1,7 @@
 ### Proyecto Ciencia de Datos
 
-Distribución de los servicios en Chile
+Distribución de los servicios salud en Chie
 
 - Centros de salud
 - Farmacias
-- Centros educativos (salas cunas, colegios, universidades, institutos)
-- Comisarías
-- Supermercados
+
